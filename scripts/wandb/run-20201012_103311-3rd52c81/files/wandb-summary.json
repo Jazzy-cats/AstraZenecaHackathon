@@ -1,0 +1,1 @@
+{"graph_0": {"_type": "graph-file", "path": "media/graph/g.r.a.p.h._.0_summary_b9b19b74.graph.json", "sha256": "b9b19b74a3f286e0f76e663c33ec757258d05a7c088353e3dcf7ff004d346df5", "size": 9581}, "Epochs": 37, "Train loss:": 0.38086750874152553, "Valid loss:": 0.38086750874152553, "_step": 1, "_runtime": 258, "_timestamp": 1602491850}

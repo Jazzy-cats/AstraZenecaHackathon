@@ -1,0 +1,10 @@
+2020-10-12 10:33:11,929 INFO    MainThread:15004 [wandb_init.py:_log_setup():292] Logging user logs to wandb\run-20201012_103311-3rd52c81\logs\debug.log
+2020-10-12 10:33:11,930 INFO    MainThread:15004 [wandb_init.py:_log_setup():293] Logging internal logs to wandb\run-20201012_103311-3rd52c81\logs\debug-internal.log
+2020-10-12 10:33:11,930 INFO    MainThread:15004 [wandb_setup.py:_flush():68] setting env: {}
+2020-10-12 10:33:11,930 INFO    MainThread:15004 [wandb_setup.py:_flush():68] setting user settings: {}
+2020-10-12 10:33:11,930 INFO    MainThread:15004 [wandb_setup.py:_flush():68] multiprocessing start_methods=spawn
+2020-10-12 10:33:14,534 INFO    MainThread:15004 [wandb_run.py:_console_start():1265] atexit reg
+2020-10-12 10:33:14,536 INFO    MainThread:15004 [wandb_run.py:_redirect():1135] redirect: SettingsConsole.WRAP
+2020-10-12 10:33:14,536 INFO    MainThread:15004 [wandb_run.py:_redirect():1166] Wrapping output streams.
+2020-10-12 10:33:14,536 INFO    MainThread:15004 [wandb_run.py:_redirect():1182] Redirects installed.
+2020-10-12 10:33:14,759 INFO    MainThread:15004 [wandb_watch.py:watch():32] Watching

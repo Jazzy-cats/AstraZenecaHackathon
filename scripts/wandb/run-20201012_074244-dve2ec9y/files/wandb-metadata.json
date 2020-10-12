@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2020-10-12T05:42:47.125136",
+    "startedAt": "2020-10-12T05:42:44.415814",
+    "docker": null,
+    "gpu": "GeForce RTX 3080",
+    "gpu_count": 1,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "codePath": "scripts\\train_A1_segmentation.py",
+    "program": "train_A1_segmentation.py",
+    "git": {
+        "remote": "https://github.com/Jazzy-cats/AstraZenecaHackathon.git",
+        "commit": "e4949e99a7be5e52c27edd891b7e1f80360e1c6e"
+    },
+    "email": "david.bao.fu@gmail.com",
+    "root": "C:/Users/Succe/Documents/Github/AstraZenecaHackathon",
+    "host": "DESKTOP-TB7KQ4G",
+    "username": "Succe",
+    "executable": "C:\\Users\\Succe\\miniconda3\\envs\\astrazeneca\\python.exe"
+}
